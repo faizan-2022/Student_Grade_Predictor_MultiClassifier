@@ -1,0 +1,15 @@
+1. Gradient Boosting Classifier: ----------> Winner
+    Accuracy:  0.999375
+    Accuracy after cross-validation:  0.8606250000000001
+
+2. Support Vector Machine Classifier:
+    Accuracy:  0.854375
+    Accuracy after cross-validation:  0.849375
+
+3. Logistics Regression Classifier:
+    Accuracy:  0.755625
+    Accuracy after cross-validation:  0.7474999999999999
+
+4. Random Forest Classifier:
+    Accuracy:  1.0 (over-fit)
+    Accuracy after cross-validation: 0.86625
